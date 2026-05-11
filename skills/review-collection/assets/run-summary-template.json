@@ -1,0 +1,16 @@
+{
+  "run_id": "",
+  "source_site": "",
+  "brand_name": "",
+  "business_review_page_url": "",
+  "landing_page_url": "",
+  "expected_total_reviews": 0,
+  "collected_unique_reviews": 0,
+  "visited_page_count": 0,
+  "sort_order": "default",
+  "locale": "",
+  "status": "in_progress",
+  "blocked": false,
+  "last_reached_page_url": "",
+  "notes": []
+}
