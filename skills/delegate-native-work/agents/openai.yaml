@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delegate Native Work"
+  short_description: "Route native subagents by cost and difficulty"
+  default_prompt: "Use $delegate-native-work to split this task among focused native Codex subagents and coordinate the result."
