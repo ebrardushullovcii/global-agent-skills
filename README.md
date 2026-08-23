@@ -12,8 +12,8 @@ Install these skills into the global agent skills directory:
 Each direct child folder under `skills/` is one installed skill. For example:
 
 ```text
-~/.agents/skills/frontend-design/SKILL.md
 ~/.agents/skills/agent-browser/SKILL.md
+~/.agents/skills/to-prd/SKILL.md
 ```
 
 ## Restore
